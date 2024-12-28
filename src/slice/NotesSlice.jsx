@@ -27,7 +27,7 @@ export const notesSlice = createSlice({
       const id = action.payload;
       state.notes = state.notes.filter((e)=>e._id !== id);
       localStorage.setItem('notes',JSON.stringify(state.notes))
-      toast("Note Deleted!")
+      toast.success("Note Deleted!")
     },
     deleteAll:(state,action) => {
       state.notes = [];
