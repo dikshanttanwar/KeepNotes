@@ -1,8 +1,14 @@
-# React + Vite
+KeepNotes 📝
+A sleek and modern note-taking application built using React. KeepNotes allows users to create, edit, and manage their notes with ease.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features 🚀
+Add Notes: Create new notes effortlessly.
+Edit Notes: Update your existing notes at any time.
+Delete Notes: Remove unwanted notes easily.
+Responsive Design: Optimized for all device sizes.
+Lightweight and Fast: Built for performance and simplicity.
+Tech Stack 🛠️
+Frontend: React, React Hooks
+Styling: CSS / TailwindCSS (if applicable)
+State Management: Context API or Redux (mention your choice)
+Icons: (e.g., Material UI Icons, Font Awesome)
